@@ -1,0 +1,5 @@
+In this code, we have a Medication class that represents a medication with its properties like name, dosage, frequency, and time. The MedicationReminderApp class acts as the main entry point for the application.
+
+In the main method, I created a sample Medication object and simulate a reminder check by comparing the current time with the medication's specified time. If the current time matches the medication's time, we call the remindMedication method, which prints a reminder message. We can extend this method to implement the actual reminder logic, such as sending notifications or displaying alerts.
+
+Note that this is a simplified example as I have no hands-on development experience yet (could not implement properly), and we will need to incorporate additional logic and features to create a fully functional medication reminder and tracker app.
